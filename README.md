@@ -393,6 +393,7 @@ Created by the Polymarket developer community to help builders integrate with Po
 
 **Version**: 1.0.0
 **Last Updated**: 2025-12-12
+**Author**: [Harish Garg(https://harishgarg.com)]
 
 ---
 
