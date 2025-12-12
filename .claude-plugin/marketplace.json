@@ -1,0 +1,41 @@
+{
+  "name": "polymarket-developer-tools",
+  "displayName": "Polymarket Developer Tools",
+  "description": "Complete suite of modular plugins for Polymarket API development",
+  "version": "1.0.0",
+  "author": "Polymarket Community",
+  "plugins": [
+    {
+      "id": "polymarket-clob",
+      "name": "Polymarket CLOB",
+      "description": "Central Limit Order Book API - Trading operations, orderbook, pricing, and order management",
+      "path": "./plugins/polymarket-clob",
+      "version": "1.0.0",
+      "tags": ["trading", "orders", "clob", "polymarket"]
+    },
+    {
+      "id": "polymarket-data",
+      "name": "Polymarket Data API",
+      "description": "User data, positions, holdings, activity, and leaderboards",
+      "path": "./plugins/polymarket-data",
+      "version": "1.0.0",
+      "tags": ["data", "positions", "analytics", "polymarket"]
+    },
+    {
+      "id": "polymarket-gamma",
+      "name": "Polymarket Gamma",
+      "description": "Market discovery - Events, markets, series, search, and sports data",
+      "path": "./plugins/polymarket-gamma",
+      "version": "1.0.0",
+      "tags": ["markets", "events", "discovery", "polymarket"]
+    },
+    {
+      "id": "polymarket-websocket",
+      "name": "Polymarket WebSocket",
+      "description": "Real-time data streams for user and market updates",
+      "path": "./plugins/polymarket-websocket",
+      "version": "1.0.0",
+      "tags": ["websocket", "realtime", "streams", "polymarket"]
+    }
+  ]
+}

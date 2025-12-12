@@ -1,0 +1,27 @@
+{
+  "name": "polymarket-websocket",
+  "displayName": "Polymarket WebSocket",
+  "description": "Real-time data streams for user and market updates",
+  "version": "1.0.0",
+  "author": "Polymarket Community",
+  "commands": [
+    {
+      "name": "ws-intro",
+      "description": "WebSocket overview and connection setup"
+    },
+    {
+      "name": "ws-user-channel",
+      "description": "User-specific real-time data streams"
+    },
+    {
+      "name": "ws-market-channel",
+      "description": "Market data real-time updates"
+    }
+  ],
+  "agents": [
+    {
+      "name": "ws-assistant",
+      "description": "Expert assistant for WebSocket real-time integration"
+    }
+  ]
+}

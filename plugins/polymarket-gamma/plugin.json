@@ -1,0 +1,31 @@
+{
+  "name": "polymarket-gamma",
+  "displayName": "Polymarket Gamma",
+  "description": "Market discovery - Events, markets, series, search, and sports data",
+  "version": "1.0.0",
+  "author": "Polymarket Community",
+  "commands": [
+    {
+      "name": "gamma-intro",
+      "description": "Gamma API overview and structure"
+    },
+    {
+      "name": "gamma-events",
+      "description": "Events and series endpoints"
+    },
+    {
+      "name": "gamma-markets",
+      "description": "Market data and details"
+    },
+    {
+      "name": "gamma-search",
+      "description": "Search and discovery endpoints"
+    }
+  ],
+  "agents": [
+    {
+      "name": "gamma-assistant",
+      "description": "Expert assistant for market discovery and Gamma API"
+    }
+  ]
+}
