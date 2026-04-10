@@ -1,0 +1,8 @@
+{
+  "name": "polymarket-websocket",
+  "description": "Real-time data streams for user and market updates",
+  "version": "1.0.0",
+  "author": {
+    "name": "Polymarket Community"
+  }
+}

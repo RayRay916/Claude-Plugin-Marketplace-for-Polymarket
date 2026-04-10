@@ -1,0 +1,8 @@
+{
+  "name": "polymarket-data",
+  "description": "User data, positions, holdings, activity, and leaderboards",
+  "version": "1.0.0",
+  "author": {
+    "name": "Polymarket Community"
+  }
+}

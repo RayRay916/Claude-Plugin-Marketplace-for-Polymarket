@@ -1,0 +1,8 @@
+{
+  "name": "polymarket-clob",
+  "description": "Central Limit Order Book API - Trading operations, orderbook, pricing, and order management",
+  "version": "1.0.0",
+  "author": {
+    "name": "Polymarket Community"
+  }
+}
