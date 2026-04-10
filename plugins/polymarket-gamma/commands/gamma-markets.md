@@ -1,3 +1,7 @@
+---
+description: "Market data and details"
+---
+
 # Polymarket Gamma API - Markets
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+description: "WebSocket overview and connection setup"
+---
+
 # Polymarket WebSocket API - Introduction
 
 ## Overview

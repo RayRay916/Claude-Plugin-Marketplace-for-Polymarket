@@ -1,3 +1,7 @@
+---
+description: "Pricing and spreads endpoints"
+---
+
 # Polymarket CLOB API - Pricing & Spreads
 
 ## Overview

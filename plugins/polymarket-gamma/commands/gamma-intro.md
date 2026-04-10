@@ -1,3 +1,7 @@
+---
+description: "Gamma API overview and structure"
+---
+
 # Polymarket Gamma API - Introduction
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+description: "Orderbook endpoints with Python/TypeScript examples"
+---
+
 # Polymarket CLOB API - Orderbook Data
 
 ## Overview

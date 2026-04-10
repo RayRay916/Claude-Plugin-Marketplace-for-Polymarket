@@ -1,3 +1,7 @@
+---
+description: "Get user positions and holdings"
+---
+
 # Polymarket Data API - Positions & Holdings
 
 ## Overview

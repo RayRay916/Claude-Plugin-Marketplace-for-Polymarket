@@ -1,3 +1,7 @@
+---
+description: "User-specific real-time data streams"
+---
+
 # Polymarket WebSocket API - User Channel
 
 ## Overview

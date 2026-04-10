@@ -1,3 +1,7 @@
+---
+description: "Leaderboard and rankings data"
+---
+
 # Polymarket Data API - Leaderboards & Rankings
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+description: "Activity and trade history"
+---
+
 # Polymarket Data API - Activity & Trade History
 
 ## Overview

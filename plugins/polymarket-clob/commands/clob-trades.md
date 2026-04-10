@@ -1,3 +1,7 @@
+---
+description: "Trade history and data endpoints"
+---
+
 # Polymarket CLOB API - Trade History
 
 ## Overview

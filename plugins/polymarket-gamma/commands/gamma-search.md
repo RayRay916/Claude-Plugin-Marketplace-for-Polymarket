@@ -1,3 +1,7 @@
+---
+description: "Search and discovery endpoints"
+---
+
 # Polymarket Gamma API - Search & Discovery
 
 ## Overview

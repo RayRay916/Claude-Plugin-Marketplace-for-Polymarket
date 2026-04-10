@@ -1,3 +1,7 @@
+---
+description: "Data API overview and authentication"
+---
+
 # Polymarket Data API - Introduction
 
 ## Overview

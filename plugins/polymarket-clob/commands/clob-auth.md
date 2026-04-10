@@ -1,3 +1,7 @@
+---
+description: "Authentication guide (L1, L2, Builder credentials)"
+---
+
 # Polymarket CLOB API - Authentication
 
 ## Authentication Methods

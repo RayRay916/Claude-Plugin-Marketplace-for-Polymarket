@@ -1,3 +1,7 @@
+---
+description: "Events and series endpoints"
+---
+
 # Polymarket Gamma API - Events & Series
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+description: "Market data real-time updates"
+---
+
 # Polymarket WebSocket API - Market Channel
 
 ## Overview

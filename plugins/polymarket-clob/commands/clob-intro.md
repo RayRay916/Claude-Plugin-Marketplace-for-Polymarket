@@ -1,3 +1,7 @@
+---
+description: "CLOB API overview, architecture, and quickstart guide"
+---
+
 # Polymarket CLOB API - Introduction
 
 ## Overview
